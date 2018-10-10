@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="10"/>
+    <BuildModes Active="Default"/>
+    <Units Count="1">
+      <Unit0>
+        <Filename Value="base2.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="100"/>
+        <CursorPos X="23" Y="121"/>
+        <UsageCount Value="22"/>
+        <Loaded Value="True"/>
+      </Unit0>
+    </Units>
+    <JumpHistory Count="6" HistoryIndex="5">
+      <Position1>
+        <Filename Value="base2.pas"/>
+        <Caret Line="37" Column="65" TopLine="28"/>
+      </Position1>
+      <Position2>
+        <Filename Value="base2.pas"/>
+        <Caret Line="68" Column="24" TopLine="50"/>
+      </Position2>
+      <Position3>
+        <Filename Value="base2.pas"/>
+        <Caret Line="109" Column="36" TopLine="80"/>
+      </Position3>
+      <Position4>
+        <Filename Value="base2.pas"/>
+        <Caret Line="112" Column="19" TopLine="97"/>
+      </Position4>
+      <Position5>
+        <Filename Value="base2.pas"/>
+        <Caret Line="113" Column="13" TopLine="97"/>
+      </Position5>
+      <Position6>
+        <Filename Value="base2.pas"/>
+        <Caret Line="119" Column="28" TopLine="100"/>
+      </Position6>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>
